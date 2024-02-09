@@ -1,6 +1,7 @@
 Introduction
 -------------
-
+* Gn120
+* high school
 
 Technology Stacks
 -------------
