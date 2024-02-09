@@ -1,4 +1,4 @@
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Gn120=your-Gn120&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gn120&show_icons=true&theme=radical)
 
 Introduction
 -------------
