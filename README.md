@@ -6,7 +6,7 @@ Introduction
 * Gn120
 * High School
 
-Technology Stacks
+⚒️Technology Stacks⚒️
 -------------
 * Frontend : ![Html](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 * Backend : ![Mysql](https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white) ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
