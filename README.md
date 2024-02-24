@@ -4,7 +4,7 @@
 Introduction
 -------------
 * Gn120
-* High School
+* High School Student
 
 ⚒️Technology Stacks⚒️
 -------------
