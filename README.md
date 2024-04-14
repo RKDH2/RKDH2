@@ -5,6 +5,7 @@ Introduction
 -------------
 * Gn120
 * High School Student
+* Front-End & Back-End
 
 ⚒️Technology Stacks (사용해본 기술 스택)⚒️
 -------------
