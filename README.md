@@ -17,6 +17,5 @@ Tech Blog & SNS
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-Hits
--------------
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RKDH2/%2Fgjbae1212%2Fhit-counter&count_bg=%23CD78FF&title_bg=%23A2A2A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRKDH2%2Fhit-counter&count_bg=%23DC89FF&title_bg=%23A4A4A4&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=true"/></a>
