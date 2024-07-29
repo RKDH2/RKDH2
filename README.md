@@ -19,4 +19,4 @@ Tech Blog & SNS
 
 Hits
 -------------
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRKDH2&count_bg=%23C67EFF&title_bg=%23B0B0B0&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRKDH2&count_bg=%2379C83D&title_bg=%23A49D9D&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
