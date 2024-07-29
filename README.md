@@ -10,9 +10,9 @@ Technology Stacks
 
 Tech Blog & SNS
 -------------
-<a href="https://velog.io/@rkdhs/posts" target="_blank">
+<a href="https://velog.io/@rkdhs/posts" target="_blank" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Tech%20Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Tech Velog"/>
 </a>
-<a href="https://www.instagram.com/rkdhs220/" target="_blank">
+<a href="https://www.instagram.com/dev_rkdhs/" target="_blank" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
