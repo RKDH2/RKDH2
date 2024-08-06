@@ -2,7 +2,6 @@ Introduction
 -------------
 * 허가온 (Heo Gaon)
 * High School Student
-* Front-End & Back-End
 
 Technology Stacks
 -------------
