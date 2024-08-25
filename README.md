@@ -1,9 +1,6 @@
-<img src="https://github.com/user-attachments/assets/0b9fccd8-e1ed-44d8-9525-c59decb1311a"/>
-
 Introduction
 -------------
 * 허가온 (Heo Gaon)
-* High School Student
 
 Technology Stacks
 -------------
