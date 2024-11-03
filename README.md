@@ -7,5 +7,3 @@
 💡 Let's build it **together** with various **ideas**!
 
 [![My Skills](https://skillicons.dev/icons?i=github,discord,js,react,nextjs,py,java,kotlin,idea,mongodb,pycharm,vscode,cpp)](https://skillicons.dev)
-
-<img src="https://solvedac-cards-starcea.paring.moe/profile/gn220?color=dark">
