@@ -1,4 +1,4 @@
-## Hi there👋
+## Hi there 👋
 
 ⚡ I am a student developer living in South Korea and am interested in various fields such as Web, App, and Ai.
 
