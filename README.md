@@ -4,6 +4,4 @@
 
 🚀 I enjoy creating while learning various programming languages ​​and development tools.
 
-🔥 Let’s create a new future by thinking and creating diverse ideas together!
-
 [![Discord](https://img.shields.io/badge/@rkdhs-5865F2?style=square&logo=discord&logoColor=white)](https://discord.com/users/rkdhs) [![Twitter](https://img.shields.io/badge/@rkdhs220-1DA1F2?style=square&logo=twitter&logoColor=white)](https://twitter.com/rkdhs220)
